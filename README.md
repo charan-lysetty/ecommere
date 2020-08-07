@@ -1,2 +1,2 @@
-# ecommere
+# ecommerce
 freshshop ecommerce webpage
